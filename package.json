@@ -1,7 +1,7 @@
 {
   "name": "is-whitespace",
   "description": "Returns true if the value passed is all whitespace",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/jonschlinkert/is-whitespace",
   "author": {
     "name": "Jon Schlinkert",
@@ -21,13 +21,15 @@
     }
   ],
   "keywords": [
-    "docs",
-    "documentation",
-    "generate",
-    "generator",
-    "markdown",
-    "templates",
-    "verb"
+    "whitespace",
+    "white space",
+    "white-space",
+    "check",
+    "tabs",
+    "spaces",
+    "nl",
+    "newline",
+    "newlines"
   ],
   "main": "index.js",
   "engines": {
