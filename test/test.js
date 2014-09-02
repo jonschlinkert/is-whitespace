@@ -11,7 +11,7 @@ var expect = require('chai').expect;
 var isWhitespace = require('../');
 
 var read = function(name) {
-	return fs.readFileSync(('test/fixtures/' + name), 'utf8');
+  return fs.readFileSync(('test/fixtures/' + name), 'utf8');
 };
 
 
