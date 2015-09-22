@@ -1,7 +1,7 @@
 {
   "name": "is-whitespace",
   "description": "Returns true if the value passed is all whitespace.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/jonschlinkert/is-whitespace",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-whitespace",
